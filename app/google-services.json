@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "752403971011",
+    "firebase_url": "https://ishop-330be.firebaseio.com",
+    "project_id": "ishop-330be",
+    "storage_bucket": "ishop-330be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752403971011:android:aa9832705f45a109",
+        "android_client_info": {
+          "package_name": "edu.student.nrm.ishop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "752403971011-5fb17kvkl4uj8nes4addr7575aklkf4t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.student.nrm.ishop",
+            "certificate_hash": "AB7E08FCEC79B275162A5C1147FEFAE9B9007B4C"
+          }
+        },
+        {
+          "client_id": "752403971011-otj7ejekn7vg1drcbmd26sj1ep3o553v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQVLDF-cNpostvt1K4icDMSziolZXmfl4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "752403971011-otj7ejekn7vg1drcbmd26sj1ep3o553v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
